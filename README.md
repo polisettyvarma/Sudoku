@@ -1,7 +1,7 @@
 Sudoku
 =======  
 Requirements:  
- *<code>c</code> compiler  
+**<code>C</code> compiler**  
 
 * For sudoku solver one should give input in **input** file  
 
